@@ -21,7 +21,7 @@ Thanks for checking out this Application.
 - NEXT.Js 13
 - css
 - next authentication
-- mongodb
+- mongoDB
 - JavaScript
 - JSX
 
