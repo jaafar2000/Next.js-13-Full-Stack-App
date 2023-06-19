@@ -6,9 +6,9 @@ Next.js13 Full Stack App is a feature-rich web application that allows users to 
 Thanks for checking out this Application.
 ## Overview
 
-![img](./src/assets/r1)
-![img](./src/assets/r2)
-![img](./src/assets/r3)
+![img](./src/assets/r1.png)
+![img](./src/assets/r2.jpg)
+![img](./src/assets/r3.png)
 
 ### Links
 
